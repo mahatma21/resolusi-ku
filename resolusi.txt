@@ -3,3 +3,7 @@ Resolusi Tahun 2021
 - Rajin latihan
 - Menambah teman
 - Aktif di komunitas
+Resolusi Tahun 2022
+- Belajar HTML
+- Belajar Javascript
+- Belajar membuat web-server
