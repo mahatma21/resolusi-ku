@@ -6,3 +6,4 @@ Rencana Program Ku
 2022
 - Membuat sebuah website
 - Membuat sebuah web-server
+- Membuat sebuah ssh-server
