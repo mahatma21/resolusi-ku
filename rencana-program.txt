@@ -1,0 +1,8 @@
+Rencana Program Ku
+2021
+- Membuat game ular
+- Membuat game platformer
+- Membuat game tetris
+2022
+- Membuat sebuah website
+- Membuat sebuah web-server
