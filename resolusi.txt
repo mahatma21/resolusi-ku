@@ -2,3 +2,4 @@ Resolusi Tahun 2021
 - Menyelesaikan pembelajaran pygame dengan membuat sebuah game platformer
 - Rajin latihan
 - Menambah teman
+- Aktif di komunitas
