@@ -1,0 +1,4 @@
+Rencana Program Ku
+- Membuat game ular
+- Membuat game platformer
+- Membuat game tetris
